@@ -1,0 +1,12 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "My Updated First Blog Post",
+      "content": "This is the updated content of my first blog post with more detailed information about web development.",
+      "image": null,
+      "createdAt": "2025-11-06T06:17:45.730Z",
+      "updatedAt": "2025-11-06T06:18:25.125Z"
+    }
+  ]
+}
